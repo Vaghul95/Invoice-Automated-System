@@ -1,0 +1,6 @@
+A leading departmental store wants to acquire an automated tool for managing
+orders. The order is made on behalf of a registered customer. An order consists of a
+number of items in the stock. The system should keep track of the stock level of
+each item. The order is either pending or serviced. The order is serviced only if the
+stock level meets the request. An invoice is made at the time of servicing the order.
+Customer can make a payment by using debit / credit card or net banking.
